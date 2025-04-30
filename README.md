@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm currently pursuing **B.Sc. in Data Science** at **Chanakya University**.  
+🎓 I'm currently pursuing **BCA in Data Science** at **Chanakya University**.  
 📊 I enjoy blending **data science, geospatial intelligence**, and **web development** to solve real-world problems.  
 🚀 I'm passionate about building impactful projects across domains like **urbanization**, **agriculture**, and **cultural studies**.
 
