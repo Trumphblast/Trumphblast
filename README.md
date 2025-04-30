@@ -68,7 +68,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: kumarjbharath76@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bharath-kumar-j-68606324a/)  
 - 💻 [GitHub](https://github.com/Trumphblast)
 
