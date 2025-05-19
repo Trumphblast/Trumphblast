@@ -13,40 +13,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🔡 100 Ancient Script ~ Epigraphy Webpage
-**Description:** An educational webpage to promote ancient script learning and exploration.  
-**Highlights:**
-- Interactive HTML Canvas and voice-based script narration.
-- Downloadable resources and curated external reading.
-- Tech Stack: `HTML`, `CSS`, `JavaScript`  
-- Tools: `Dropbox`, `Pinterest`
-
----
-
-### 🌇 GEE Urbanization Explorer
-**Description:** An analytical study of urban sprawl in Indian cities using Google Earth Engine.  
-**Highlights:**
-- Worked with GEE's feature collections and map layers.
-- Generated visual insights into Pune, Bangalore, and Chennai.
-- Distance analysis using route data.
-- Tech Stack: `JavaScript`, `Python`  
-- Tools: `GEE`, `OpenStreetMap`, `Google Colab`
-
----
-
-### 🌿 Green Check - Plant Disease Classifier
-**Description:** A deep learning model for detecting and classifying plant leaf diseases.  
-**Highlights:**
-- Trained a PyTorch model on the PlantVillage dataset.
-- Achieved multi-class accuracy for 10+ disease types.
-- Practical use-case for farmers to reduce diagnosis time.
-- Tech Stack: `Python`, `PyTorch`, `NumPy`, `Matplotlib`  
-- Tools: `Google Colab`
-
----
-
 ## 🛠️ Skills
 
 ### 🔤 Programming
