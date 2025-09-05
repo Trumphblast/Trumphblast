@@ -23,11 +23,12 @@
 
 ### Tools
 - `Google Earth Engine (GEE)` | `OpenStreetMap` | `QGIS` (learning)
-- `Dropbox`
-- `Git-Hub`
-- `AWS Cloud`
-- `Google colab` | `Anaconda`
-- 
+- `Dropbox` | `Google Drive` | 
+- `Git-Hub` | `AWS Cloud` | `Docker` | 
+- `Google colab` | `Anaconda` | `Eclipse` | `PyCharm`
+- `Bolt.new` | `Replit`
+- `Windows` | `Ubuntu`
+- `Cloudera`
 
 ---
 
